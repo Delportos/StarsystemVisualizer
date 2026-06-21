@@ -1,0 +1,35 @@
+from,to,sprint,faction,yearreached
+Sol,Wolf 359,0,US;Commonwealth,0
+Wolf 359,Ross 128,0,US;Commonwealth,2132
+Ross 128,FL Virginis,0,US;Commonwealth
+FL Virginis,GL Virginis,0,US;Commonwealth
+GL Virginis,Gliese 1154,0,US
+Gliese 1154,Beta Virginis,0,US
+Gliese 1154,61 Virginis,0,US
+GL Virginis,Gliese 486,0,Commonwealth
+Gliese 486,Beta Com,0,Commonwealth
+Beta Com,Beta CVn,0,Commonwealth
+Sol,Barnard's Star,0,France
+Barnard's Star,Struve 2398,0,France
+Struve 2398,Sigma Draconis,0,France
+Sol,Epsilon Eridani,0,France;China
+Epsilon Eridani,Tau Ceti,0,France;China
+Sol,Sirius,0,China
+Sirius,Luyten's Star,0,China
+Luyten's Star,Procyon A,0,China
+Luyten's Star, Gliese 251,0,China
+Gliese 251, Gliese 1093,0,China
+Gliese 251, Chi Orionis,0,China
+Gliese 1093, Gliese 239,0, China
+Gliese 239, Pollux,0, China
+Pollux, UCAC4 608-044702,0,China
+UCAC4 608-044702,11 Leonis Minoris,0,China
+UCAC4 608-044702, 55 Cancri A,0, China
+11 Leonis Minoris,20 Leonis Minoris,0,China
+Sol, Alpha Centauri C,0,US
+Alpha Centauri C, Alpha Centauri A,0,US,2128
+Alpha Centauri C, Epsilon Indi,0,Japan
+Epsilon Indi, Delta Pavonis,0,Japan
+Delta Pavonis, Beta Hydri,0, Japan
+Beta Hydri,Zeta Tucanae,0,Japan
+Beta Hydri, Gamma Pavonis,0,Japan

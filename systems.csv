@@ -1,0 +1,36 @@
+name,ra_hours,dec_deg,dist_ly,spectral,kind,role,faction,lum
+Sol,0,0,0,G2V,sun,origin,US;Commonwealth;Japan;France;China,1
+Wolf 359,10.9442,7.0144,7.86,M6V,m,relay,US;Commonwealth,0.00002
+Ross 128,11.7964,0.8045,11.0,M4V,m,relay,US;Commonwealth,0.00036
+FL Virginis,12.5548,9.0211,14.0,M5.5V,m,relay,US;Commonwealth,0.00005
+GL Virginis,12.3164,11.1261,21.11,M4.5V,m,branch,US;Commonwealth,0.00083
+Gliese 1154,12.2379,0.6240,26.4,M4.5V,m,branch,US,0.0004
+Beta Virginis,11.8449,1.7647,35.7,F9V,sun,colony,US,3.51
+61 Virginis,13.3069,-18.3122,27.9,G7V,sun,candidate,US,0.822
+Gliese 486,12.7980,9.7514,26.35,M3.5V,m,relay,Commonwealth,0.012
+Beta Com,13.1822,27.8783,30.0,G0V,sun,hub,Commonwealth,1.16
+Beta CVn,12.5621,41.3576,27.5,G0V,sun,colony,Commonwealth,1.15
+Barnard's Star,17.9603,4.6931,5.96,M4V,m,relay,France,0.0035
+Struve 2398,18.7120,59.6303,11.49,M3V,m,relay,France,0.0028
+Sigma Draconis,19.5394,69.6611,18.8,K0V,sun,colony,France,0.41
+Epsilon Eridani,3.5489,-9.4583,10.47,K2V,sun,relay,France,0.34
+Tau Ceti,1.7344,-15.9375,11.9,G8V,sun,relay,France,0.52
+Sirius,6.7525,-16.7161,8.6,A1V,sun,relay,China,25.4
+Alpha Centauri A,14.66014,-60.83390,4.37,G2V,sun,colony,US,1.519
+Alpha Centauri C,14.49526,-62.67948,4.246,M5.5.Ve,m,relay,US,0.0017
+Procyon A,7.65503,5.22500,11.46,F5IV-V,sun,relay,China,6.9
+Luyten's Star,7.45681,5.22583,12.39,M3.5V,m,relay,China,0.0088
+Gliese 251,6.91361,33.26817,18.21,M3V,m,relay,China,0.0155
+Gliese 1093,6.99161,19.34486,25.29 ,M5V,m,relay,China,0.0013
+Chi Orionis,5.90639,20.27617,28.26,G0V,sun,colony,China,1.05
+Gliese 239,6.61967,17.56481,32.61,M0.0,m,relay,China,0.120
+Pollux,7.75525,28.02619,33.78,K0III,sun,relay,China,32
+UCAC4 608-044702,8.67110,31.45189,37.00,M3.5Ve,m,relay,China,0.008
+55 Cancri A,8.87661,28.33083,41.06,K0IV-V,sun,relay,China,0.63
+11 Leonis Minoris,9.59431,35.81014,36.64,G8V,sun,relay,China,0.75
+20 Leonis Minoris,10.01686,31.92367,48.68,G1Va,sun,relay,China,1.37
+Epsilon Indi,22.0567,-56.7833,11.83,K5V,sun,relay,Japan,0.22
+Delta Pavonis,20.1454,-66.1821,19.91,G8IV,sun,colony,Japan,1.20
+Beta Hydri,0.4292,-77.2542,24.33,G2IV,sun,relay,Japan,3.45
+Gamma Pavonis,21.4407,-65.3662,30.06,F9V,sun,relay,Japan,1.52
+Zeta Tucanae,0.3345,-64.8748,28.03,F9.5V,sun,relay,Japan,1.26

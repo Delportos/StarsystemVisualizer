@@ -1,0 +1,596 @@
+from,to,dist_ly,t_external_y,t_ship_y,max_v_c
+Alpha Centauri A,Alpha Centauri C,0.206,1.28,1.26,0.313
+Procyon A,Luyten's Star,1.115,3.15,2.88,0.63
+Wolf 359,Ross 128,3.889,7.55,6.3,0.63
+Sol,Alpha Centauri C,4.246,8.12,6.74,0.63
+Ross 128,FL Virginis,4.259,8.14,6.75,0.63
+Sol,Alpha Centauri A,4.37,8.31,6.89,0.63
+UCAC4 608-044702,55 Cancri A,4.929,9.2,7.58,0.63
+Sirius,Procyon A,5.261,9.73,7.99,0.63
+Epsilon Eridani,Tau Ceti,5.459,10.04,8.23,0.63
+Gliese 1154,Gliese 486,5.686,10.4,8.51,0.63
+Sirius,Luyten's Star,5.766,10.53,8.61,0.63
+Sol,Barnard's Star,5.96,10.84,8.85,0.63
+GL Virginis,Gliese 486,6.026,10.94,8.93,0.63
+Barnard's Star,Alpha Centauri A,6.474,11.65,9.48,0.63
+Barnard's Star,Alpha Centauri C,6.555,11.78,9.58,0.63
+Beta Hydri,Zeta Tucanae,6.741,12.08,9.81,0.63
+GL Virginis,Gliese 1154,6.847,12.25,9.94,0.63
+Chi Orionis,Gliese 239,7.046,12.56,10.19,0.63
+FL Virginis,GL Virginis,7.216,12.83,10.4,0.63
+Wolf 359,FL Virginis,7.532,13.33,10.79,0.63
+Gliese 1093,Chi Orionis,7.728,13.64,11.03,0.63
+Epsilon Eridani,Sirius,7.833,13.81,11.16,0.63
+Gliese 1093,Gliese 239,7.836,13.82,11.16,0.63
+Sol,Wolf 359,7.86,13.85,11.19,0.63
+Struve 2398,Sigma Draconis,7.862,13.86,11.19,0.63
+UCAC4 608-044702,11 Leonis Minoris,7.905,13.92,11.25,0.63
+Beta Com,Beta CVn,8.13,14.28,11.52,0.63
+Pollux,UCAC4 608-044702,8.288,14.53,11.72,0.63
+Wolf 359,Alpha Centauri C,8.298,14.55,11.73,0.63
+Wolf 359,Alpha Centauri A,8.336,14.61,11.78,0.63
+Sol,Sirius,8.6,15.03,12.1,0.63
+Wolf 359,Procyon A,8.665,15.13,12.18,0.63
+Gliese 251,Gliese 1093,8.794,15.34,12.34,0.63
+Wolf 359,Sirius,9.05,15.74,12.66,0.63
+55 Cancri A,11 Leonis Minoris,9.107,15.83,12.73,0.63
+Epsilon Indi,Delta Pavonis,9.186,15.96,12.83,0.63
+Gamma Pavonis,Zeta Tucanae,9.26,16.08,12.92,0.63
+Delta Pavonis,Beta Hydri,9.295,16.13,12.96,0.63
+Sirius,Alpha Centauri C,9.353,16.22,13.03,0.63
+Barnard's Star,Struve 2398,9.497,16.45,13.21,0.63
+Luyten's Star,Gliese 251,9.521,16.49,13.24,0.63
+Sirius,Alpha Centauri A,9.538,16.52,13.26,0.63
+Alpha Centauri C,Epsilon Indi,9.662,16.71,13.41,0.63
+Alpha Centauri A,Epsilon Indi,9.663,16.72,13.41,0.63
+Wolf 359,Luyten's Star,9.769,16.88,13.54,0.63
+Gliese 1154,Beta Virginis,9.84,17.0,13.63,0.63
+Gliese 486,Beta Com,9.937,17.15,13.75,0.63
+Procyon A,Gliese 251,10.054,17.34,13.9,0.63
+Beta Hydri,Gamma Pavonis,10.164,17.51,14.03,0.63
+Ross 128,Alpha Centauri A,10.344,17.8,14.25,0.63
+Ross 128,Alpha Centauri C,10.372,17.84,14.29,0.63
+Sol,Epsilon Eridani,10.47,18.0,14.41,0.63
+Ross 128,GL Virginis,10.674,18.32,14.66,0.63
+Delta Pavonis,Gamma Pavonis,10.706,18.37,14.7,0.63
+Gliese 239,Pollux,10.924,18.72,14.97,0.63
+Gliese 1093,Pollux,10.954,18.77,15.01,0.63
+Wolf 359,Barnard's Star,10.988,18.82,15.05,0.63
+Sol,Ross 128,11.0,18.84,15.06,0.63
+Sol,Procyon A,11.46,19.57,15.63,0.63
+Sol,Struve 2398,11.49,19.62,15.67,0.63
+Tau Ceti,Epsilon Indi,11.496,19.63,15.67,0.63
+Epsilon Eridani,Procyon A,11.506,19.64,15.69,0.63
+Epsilon Eridani,Luyten's Star,11.589,19.77,15.79,0.63
+Ross 128,Procyon A,11.602,19.79,15.8,0.63
+Gliese 1154,61 Virginis,11.678,19.91,15.9,0.63
+Sol,Epsilon Indi,11.83,20.15,16.08,0.63
+Sol,Tau Ceti,11.9,20.27,16.17,0.63
+Pollux,55 Cancri A,12.052,20.51,16.36,0.63
+Barnard's Star,Epsilon Indi,12.179,20.71,16.51,0.63
+Ross 128,Sirius,12.282,20.87,16.64,0.63
+Tau Ceti,Sirius,12.308,20.91,16.67,0.63
+Epsilon Eridani,Alpha Centauri C,12.385,21.04,16.77,0.63
+Sol,Luyten's Star,12.39,21.04,16.78,0.63
+FL Virginis,Gliese 486,12.411,21.08,16.8,0.63
+Gliese 251,Chi Orionis,12.46,21.15,16.86,0.63
+Epsilon Eridani,Alpha Centauri A,12.585,21.35,17.02,0.63
+Ross 128,Luyten's Star,12.644,21.45,17.09,0.63
+GL Virginis,Beta Com,12.684,21.51,17.14,0.63
+Ross 128,Barnard's Star,12.727,21.58,17.19,0.63
+Beta Virginis,Gliese 486,12.77,21.65,17.24,0.63
+FL Virginis,Gliese 1154,12.814,21.72,17.3,0.63
+Alpha Centauri C,Procyon A,12.921,21.89,17.43,0.63
+11 Leonis Minoris,20 Leonis Minoris,12.968,21.96,17.49,0.63
+Delta Pavonis,Zeta Tucanae,13.047,22.09,17.59,0.63
+Alpha Centauri A,Procyon A,13.078,22.14,17.62,0.63
+Tau Ceti,Alpha Centauri C,13.368,22.6,17.98,0.63
+FL Virginis,Alpha Centauri A,13.479,22.77,18.12,0.63
+Tau Ceti,Alpha Centauri A,13.531,22.85,18.18,0.63
+FL Virginis,Alpha Centauri C,13.546,22.88,18.2,0.63
+61 Virginis,Gliese 486,13.692,23.11,18.38,0.63
+Luyten's Star,Gliese 1093,13.773,23.24,18.48,0.63
+Alpha Centauri C,Luyten's Star,13.891,23.43,18.63,0.63
+Sol,FL Virginis,14.0,23.6,18.76,0.63
+Wolf 359,GL Virginis,14.037,23.66,18.81,0.63
+Alpha Centauri A,Luyten's Star,14.054,23.68,18.83,0.63
+Epsilon Eridani,Epsilon Indi,14.063,23.7,18.84,0.63
+55 Cancri A,20 Leonis Minoris,14.071,23.71,18.85,0.63
+GL Virginis,Beta CVn,14.16,23.85,18.96,0.63
+FL Virginis,Barnard's Star,14.28,24.04,19.1,0.63
+Sirius,Gliese 251,14.297,24.07,19.13,0.63
+Epsilon Indi,Beta Hydri,14.339,24.14,19.18,0.63
+Barnard's Star,Sirius,14.41,24.25,19.27,0.63
+Struve 2398,Alpha Centauri C,14.651,24.63,19.56,0.63
+Struve 2398,Alpha Centauri A,14.652,24.64,19.56,0.63
+Wolf 359,Struve 2398,14.671,24.66,19.59,0.63
+Procyon A,Gliese 1093,14.73,24.76,19.66,0.63
+Gliese 486,Beta CVn,14.776,24.83,19.72,0.63
+Chi Orionis,Pollux,15.15,25.42,20.18,0.63
+Gliese 1154,Beta Com,15.211,25.52,20.25,0.63
+Wolf 359,Epsilon Eridani,15.24,25.57,20.29,0.63
+Pollux,11 Leonis Minoris,15.246,25.58,20.3,0.63
+FL Virginis,Procyon A,15.268,25.61,20.32,0.63
+Sirius,Epsilon Indi,15.303,25.67,20.37,0.63
+GL Virginis,61 Virginis,15.326,25.7,20.39,0.63
+Ross 128,Gliese 1154,15.525,26.02,20.64,0.63
+Barnard's Star,Tau Ceti,15.531,26.03,20.65,0.63
+GL Virginis,Beta Virginis,15.627,26.18,20.76,0.63
+Barnard's Star,Epsilon Eridani,15.68,26.27,20.83,0.63
+Gliese 251,Gliese 239,15.953,26.7,21.17,0.63
+Wolf 359,Gliese 251,16.034,26.83,21.27,0.63
+Ross 128,Gliese 486,16.193,27.08,21.46,0.63
+FL Virginis,Luyten's Star,16.271,27.2,21.56,0.63
+FL Virginis,Sirius,16.402,27.41,21.72,0.63
+Gliese 251,Pollux,16.417,27.44,21.74,0.63
+Alpha Centauri A,Delta Pavonis,16.489,27.55,21.83,0.63
+Alpha Centauri C,Delta Pavonis,16.557,27.66,21.91,0.63
+Tau Ceti,Procyon A,16.563,27.67,21.92,0.63
+Epsilon Eridani,Gliese 251,16.596,27.72,21.96,0.63
+Ross 128,Struve 2398,16.742,27.95,22.14,0.63
+Tau Ceti,Luyten's Star,16.793,28.03,22.2,0.63
+Barnard's Star,Procyon A,16.979,28.33,22.43,0.63
+FL Virginis,Struve 2398,17.062,28.46,22.53,0.63
+FL Virginis,61 Virginis,17.163,28.62,22.66,0.63
+Epsilon Indi,Zeta Tucanae,17.195,28.67,22.7,0.63
+UCAC4 608-044702,20 Leonis Minoris,17.227,28.72,22.74,0.63
+Barnard's Star,Sigma Draconis,17.34,28.9,22.88,0.63
+FL Virginis,Beta CVn,17.368,28.95,22.91,0.63
+FL Virginis,Beta Com,17.634,29.37,23.24,0.63
+Beta Virginis,61 Virginis,17.851,29.71,23.51,0.63
+Wolf 359,Epsilon Indi,17.864,29.73,23.52,0.63
+Gliese 1093,UCAC4 608-044702,17.945,29.86,23.62,0.63
+Barnard's Star,Luyten's Star,17.984,29.92,23.67,0.63
+Luyten's Star,Chi Orionis,18.139,30.17,23.86,0.63
+Sol,Gliese 251,18.21,30.28,23.95,0.63
+Epsilon Indi,Gamma Pavonis,18.504,30.75,24.31,0.63
+Wolf 359,Tau Ceti,18.511,30.76,24.32,0.63
+Struve 2398,Sirius,18.727,31.1,24.59,0.63
+Ross 128,Gliese 251,18.787,31.2,24.66,0.63
+Sol,Sigma Draconis,18.8,31.22,24.68,0.63
+Gliese 1154,Beta CVn,18.891,31.36,24.79,0.63
+Struve 2398,Epsilon Eridani,18.892,31.36,24.79,0.63
+Ross 128,Epsilon Eridani,18.901,31.38,24.8,0.63
+Sirius,Gliese 1093,19.044,31.61,24.98,0.63
+Ross 128,61 Virginis,19.09,31.68,25.03,0.63
+Beta Virginis,Beta Com,19.13,31.74,25.08,0.63
+Gliese 239,UCAC4 608-044702,19.134,31.75,25.09,0.63
+Procyon A,Chi Orionis,19.151,31.78,25.11,0.63
+Barnard's Star,Delta Pavonis,19.219,31.88,25.19,0.63
+Wolf 359,Gliese 1154,19.228,31.9,25.2,0.63
+Struve 2398,Procyon A,19.267,31.96,25.25,0.63
+Struve 2398,Tau Ceti,19.328,32.06,25.33,0.63
+Wolf 359,Gliese 486,19.727,32.69,25.82,0.63
+Ross 128,Epsilon Indi,19.8,32.81,25.91,0.63
+Sol,Delta Pavonis,19.91,32.98,26.05,0.63
+Tau Ceti,Delta Pavonis,19.981,33.09,26.13,0.63
+Struve 2398,Luyten's Star,20.095,33.27,26.27,0.63
+GL Virginis,Procyon A,20.153,33.37,26.34,0.63
+Procyon A,Epsilon Indi,20.287,33.58,26.51,0.63
+Struve 2398,Epsilon Indi,20.493,33.91,26.76,0.63
+GL Virginis,Alpha Centauri A,20.584,34.05,26.88,0.63
+GL Virginis,Alpha Centauri C,20.651,34.16,26.96,0.63
+Ross 128,Beta CVn,20.656,34.16,26.96,0.63
+GL Virginis,Luyten's Star,20.967,34.66,27.35,0.63
+Luyten's Star,Epsilon Indi,20.978,34.68,27.36,0.63
+Struve 2398,Gliese 251,21.029,34.76,27.42,0.63
+FL Virginis,Gliese 251,21.077,34.83,27.48,0.63
+Beta CVn,11 Leonis Minoris,21.094,34.86,27.51,0.63
+Wolf 359,Sigma Draconis,21.105,34.88,27.52,0.63
+Sol,GL Virginis,21.11,34.89,27.52,0.63
+Luyten's Star,Gliese 239,21.116,34.89,27.53,0.63
+Alpha Centauri C,Gliese 251,21.187,35.01,27.62,0.63
+Alpha Centauri C,Beta Hydri,21.187,35.01,27.62,0.63
+Alpha Centauri A,Beta Hydri,21.19,35.01,27.62,0.63
+Gliese 251,UCAC4 608-044702,21.3,35.19,27.76,0.63
+GL Virginis,Barnard's Star,21.314,35.21,27.78,0.63
+Alpha Centauri A,Gliese 251,21.344,35.26,27.81,0.63
+Tau Ceti,Beta Hydri,21.511,35.52,28.02,0.63
+Tau Ceti,Gliese 251,21.545,35.58,28.06,0.63
+Ross 128,Beta Com,21.709,35.84,28.26,0.63
+Epsilon Eridani,Gliese 1093,21.729,35.87,28.29,0.63
+Gliese 1093,55 Cancri A,21.909,36.15,28.51,0.63
+Ross 128,Tau Ceti,21.991,36.28,28.61,0.63
+Wolf 359,Beta CVn,22.126,36.5,28.78,0.63
+Procyon A,Gliese 239,22.147,36.53,28.8,0.63
+Sirius,Chi Orionis,22.249,36.69,28.93,0.63
+Wolf 359,Gliese 1093,22.252,36.7,28.93,0.63
+Epsilon Eridani,Chi Orionis,22.258,36.71,28.94,0.63
+FL Virginis,Beta Virginis,22.269,36.72,28.95,0.63
+Sigma Draconis,Alpha Centauri C,22.319,36.8,29.02,0.63
+Sigma Draconis,Alpha Centauri A,22.339,36.84,29.04,0.63
+Gliese 239,55 Cancri A,22.35,36.85,29.05,0.63
+GL Virginis,Sirius,22.38,36.9,29.09,0.63
+Epsilon Eridani,Delta Pavonis,22.428,36.98,29.15,0.63
+Sirius,Delta Pavonis,22.45,37.01,29.18,0.63
+Tau Ceti,Zeta Tucanae,22.52,37.12,29.26,0.63
+FL Virginis,Epsilon Eridani,22.703,37.41,29.49,0.63
+FL Virginis,Sigma Draconis,22.762,37.51,29.56,0.63
+61 Virginis,Beta Com,22.81,37.58,29.62,0.63
+Wolf 359,61 Virginis,22.811,37.58,29.62,0.63
+Gliese 1093,11 Leonis Minoris,22.836,37.62,29.65,0.63
+FL Virginis,Epsilon Indi,22.839,37.63,29.66,0.63
+GL Virginis,Struve 2398,22.842,37.63,29.66,0.63
+Luyten's Star,Pollux,22.917,37.75,29.75,0.63
+Sigma Draconis,Gliese 251,23.004,37.89,29.86,0.63
+Ross 128,Sigma Draconis,23.072,38.0,29.94,0.63
+Barnard's Star,Gliese 251,23.079,38.01,29.95,0.63
+Chi Orionis,UCAC4 608-044702,23.143,38.11,30.03,0.63
+Beta CVn,Sigma Draconis,23.18,38.17,30.08,0.63
+Beta CVn,Struve 2398,23.182,38.17,30.08,0.63
+Beta Virginis,Beta CVn,23.315,38.38,30.24,0.63
+Epsilon Eridani,Beta Hydri,23.324,38.4,30.25,0.63
+Gliese 251,11 Leonis Minoris,23.554,38.76,30.54,0.63
+Sirius,Beta Hydri,23.579,38.8,30.57,0.63
+Procyon A,Pollux,23.641,38.9,30.64,0.63
+Wolf 359,Delta Pavonis,24.216,39.81,31.35,0.63
+Wolf 359,Beta Com,24.292,39.94,31.45,0.63
+Sigma Draconis,Epsilon Eridani,24.321,39.98,31.48,0.63
+Sol,Beta Hydri,24.33,40.0,31.49,0.63
+Ross 128,Gliese 1093,24.422,40.14,31.61,0.63
+Sigma Draconis,Procyon A,24.435,40.16,31.62,0.63
+GL Virginis,Gliese 251,24.447,40.18,31.64,0.63
+Gliese 1154,Procyon A,24.683,40.56,31.93,0.63
+Ross 128,Beta Virginis,24.704,40.59,31.95,0.63
+Sigma Draconis,Tau Ceti,24.857,40.83,32.14,0.63
+Sigma Draconis,Sirius,24.899,40.9,32.2,0.63
+61 Virginis,Alpha Centauri A,24.996,41.05,32.31,0.63
+Ross 128,Delta Pavonis,25.002,41.06,32.32,0.63
+Gliese 1154,Alpha Centauri A,25.053,41.14,32.39,0.63
+Sigma Draconis,Luyten's Star,25.067,41.17,32.4,0.63
+Gliese 1154,Alpha Centauri C,25.134,41.27,32.48,0.63
+61 Virginis,Alpha Centauri C,25.14,41.28,32.49,0.63
+Sol,Gliese 1093,25.29,41.52,32.68,0.63
+Epsilon Eridani,Zeta Tucanae,25.381,41.66,32.79,0.63
+Gliese 1154,Luyten's Star,25.406,41.7,32.82,0.63
+Pollux,20 Leonis Minoris,25.477,41.82,32.91,0.63
+Gliese 486,Alpha Centauri A,25.49,41.84,32.92,0.63
+Alpha Centauri C,Zeta Tucanae,25.523,41.89,32.96,0.63
+Alpha Centauri A,Zeta Tucanae,25.548,41.93,32.99,0.63
+FL Virginis,Tau Ceti,25.562,41.95,33.01,0.63
+Gliese 486,Alpha Centauri C,25.586,41.99,33.04,0.63
+Gliese 486,Barnard's Star,25.659,42.11,33.13,0.63
+Barnard's Star,Beta Hydri,25.66,42.11,33.13,0.63
+Beta CVn,Gliese 251,25.828,42.37,33.34,0.63
+Gliese 239,11 Leonis Minoris,25.863,42.43,33.38,0.63
+Gliese 251,55 Cancri A,25.881,42.46,33.41,0.63
+Sirius,Gliese 239,25.966,42.59,33.51,0.63
+GL Virginis,11 Leonis Minoris,26.117,42.83,33.7,0.63
+Gliese 486,Procyon A,26.162,42.9,33.75,0.63
+Sol,Gliese 486,26.35,43.2,33.98,0.63
+Sol,Gliese 1154,26.4,43.28,34.05,0.63
+Gliese 1154,Barnard's Star,26.635,43.66,34.34,0.63
+Beta Com,11 Leonis Minoris,26.659,43.69,34.36,0.63
+61 Virginis,Barnard's Star,26.718,43.79,34.44,0.63
+Gliese 1154,Sirius,26.72,43.79,34.44,0.63
+Beta Com,Struve 2398,26.759,43.85,34.49,0.63
+Beta CVn,Procyon A,26.771,43.87,34.5,0.63
+FL Virginis,Gliese 1093,26.898,44.07,34.66,0.63
+Tau Ceti,Chi Orionis,26.923,44.11,34.69,0.63
+Alpha Centauri A,Gamma Pavonis,26.926,44.12,34.69,0.63
+Alpha Centauri C,Gamma Pavonis,26.971,44.19,34.75,0.63
+Gliese 486,Luyten's Star,26.977,44.2,34.76,0.63
+Tau Ceti,Gliese 1093,27.026,44.28,34.82,0.63
+Gliese 486,Struve 2398,27.038,44.29,34.83,0.63
+Beta CVn,Barnard's Star,27.121,44.43,34.93,0.63
+Chi Orionis,55 Cancri A,27.156,44.48,34.98,0.63
+Wolf 359,Chi Orionis,27.176,44.51,35.0,0.63
+Luyten's Star,UCAC4 608-044702,27.186,44.53,35.01,0.63
+Beta CVn,UCAC4 608-044702,27.206,44.56,35.04,0.63
+GL Virginis,Sigma Draconis,27.215,44.58,35.05,0.63
+Tau Ceti,Gamma Pavonis,27.254,44.64,35.1,0.63
+Procyon A,Delta Pavonis,27.345,44.78,35.21,0.63
+Beta CVn,Luyten's Star,27.396,44.86,35.27,0.63
+Sirius,Zeta Tucanae,27.486,45.01,35.38,0.63
+Sol,Beta CVn,27.5,45.03,35.4,0.63
+Alpha Centauri C,Gliese 1093,27.504,45.03,35.41,0.63
+Epsilon Eridani,Gliese 239,27.592,45.17,35.51,0.63
+FL Virginis,Delta Pavonis,27.61,45.2,35.54,0.63
+Procyon A,UCAC4 608-044702,27.657,45.28,35.6,0.63
+Alpha Centauri A,Gliese 1093,27.67,45.3,35.61,0.63
+Sigma Draconis,Epsilon Indi,27.845,45.58,35.83,0.63
+Wolf 359,Beta Hydri,27.871,45.62,35.86,0.63
+Sol,61 Virginis,27.9,45.66,35.89,0.63
+61 Virginis,Beta CVn,27.937,45.72,35.94,0.63
+Sol,Zeta Tucanae,28.03,45.87,36.05,0.63
+Luyten's Star,Delta Pavonis,28.04,45.88,36.07,0.63
+Beta Com,Sigma Draconis,28.129,46.03,36.18,0.63
+Wolf 359,Beta Virginis,28.157,46.07,36.21,0.63
+Gliese 486,Sirius,28.204,46.15,36.27,0.63
+Sol,Chi Orionis,28.26,46.23,36.34,0.63
+Struve 2398,Delta Pavonis,28.331,46.35,36.43,0.63
+Gliese 251,Epsilon Indi,28.346,46.37,36.44,0.63
+Beta Virginis,11 Leonis Minoris,28.405,46.46,36.52,0.63
+Procyon A,Beta Hydri,28.486,46.59,36.62,0.63
+Gliese 486,11 Leonis Minoris,28.529,46.66,36.67,0.63
+Sirius,Pollux,28.622,46.81,36.78,0.63
+Gliese 1154,11 Leonis Minoris,28.623,46.81,36.79,0.63
+Beta Com,Barnard's Star,28.684,46.91,36.86,0.63
+Chi Orionis,11 Leonis Minoris,28.72,46.96,36.9,0.63
+Luyten's Star,11 Leonis Minoris,28.744,47.0,36.93,0.63
+Luyten's Star,Beta Hydri,28.883,47.22,37.11,0.63
+Procyon A,11 Leonis Minoris,28.921,47.28,37.15,0.63
+Ross 128,Beta Hydri,28.927,47.29,37.16,0.63
+Beta CVn,Alpha Centauri A,28.966,47.36,37.21,0.63
+Beta CVn,Alpha Centauri C,29.0,47.41,37.25,0.63
+GL Virginis,Gliese 1093,29.037,47.47,37.3,0.63
+Beta CVn,20 Leonis Minoris,29.149,47.65,37.43,0.63
+GL Virginis,Epsilon Eridani,29.203,47.73,37.5,0.63
+FL Virginis,11 Leonis Minoris,29.281,47.85,37.6,0.63
+Barnard's Star,Zeta Tucanae,29.322,47.92,37.65,0.63
+Wolf 359,Pollux,29.327,47.93,37.65,0.63
+Gliese 1154,Struve 2398,29.347,47.96,37.68,0.63
+61 Virginis,Sirius,29.531,48.25,37.91,0.63
+61 Virginis,Procyon A,29.547,48.28,37.92,0.63
+Barnard's Star,Gamma Pavonis,29.573,48.32,37.96,0.63
+Gliese 1154,Gliese 251,29.688,48.5,38.1,0.63
+Struve 2398,Gliese 1093,29.698,48.52,38.11,0.63
+Beta CVn,55 Cancri A,29.737,48.58,38.16,0.63
+GL Virginis,Epsilon Indi,29.817,48.71,38.26,0.63
+Ross 128,Chi Orionis,29.997,48.99,38.48,0.63
+Sol,Beta Com,30.0,49.0,38.48,0.63
+Wolf 359,Gliese 239,30.005,49.0,38.49,0.63
+GL Virginis,UCAC4 608-044702,30.023,49.03,38.51,0.63
+Beta CVn,Sirius,30.053,49.08,38.55,0.63
+Sol,Gamma Pavonis,30.06,49.09,38.56,0.63
+Ross 128,11 Leonis Minoris,30.148,49.23,38.66,0.63
+Gliese 486,Gliese 251,30.213,49.33,38.75,0.63
+Beta Com,Alpha Centauri A,30.357,49.56,38.92,0.63
+61 Virginis,Luyten's Star,30.431,49.68,39.01,0.63
+Beta Com,Alpha Centauri C,30.439,49.69,39.02,0.63
+Epsilon Eridani,Gamma Pavonis,30.439,49.69,39.02,0.63
+Beta Com,Procyon A,30.452,49.71,39.04,0.63
+Wolf 359,11 Leonis Minoris,30.466,49.74,39.06,0.63
+Ross 128,Pollux,30.584,49.92,39.2,0.63
+Barnard's Star,Gliese 1093,30.662,50.05,39.3,0.63
+Beta CVn,Pollux,30.695,50.1,39.34,0.63
+61 Virginis,Delta Pavonis,30.793,50.26,39.46,0.63
+Alpha Centauri C,Chi Orionis,30.908,50.44,39.6,0.63
+Gliese 486,Sigma Draconis,30.917,50.45,39.61,0.63
+Luyten's Star,55 Cancri A,31.056,50.67,39.78,0.63
+Alpha Centauri A,Chi Orionis,31.097,50.74,39.83,0.63
+Beta Virginis,20 Leonis Minoris,31.149,50.82,39.9,0.63
+61 Virginis,Epsilon Indi,31.164,50.84,39.92,0.63
+Beta Com,Luyten's Star,31.223,50.94,39.99,0.63
+Beta CVn,Gliese 1093,31.319,51.09,40.11,0.63
+Wolf 359,UCAC4 608-044702,31.399,51.22,40.21,0.63
+Procyon A,55 Cancri A,31.52,51.41,40.36,0.63
+Sirius,Gamma Pavonis,31.619,51.57,40.48,0.63
+GL Virginis,Pollux,31.67,51.65,40.54,0.63
+Sigma Draconis,Gliese 1093,31.723,51.73,40.61,0.63
+Beta Com,Gliese 251,31.75,51.77,40.64,0.63
+Ross 128,UCAC4 608-044702,31.772,51.81,40.67,0.63
+FL Virginis,Pollux,31.82,51.88,40.73,0.63
+FL Virginis,UCAC4 608-044702,31.953,52.1,40.89,0.63
+Epsilon Eridani,Pollux,32.041,52.24,41.0,0.63
+Beta Virginis,Procyon A,32.122,52.37,41.1,0.63
+Ross 128,Gliese 239,32.173,52.45,41.16,0.63
+61 Virginis,Struve 2398,32.195,52.48,41.19,0.63
+Struve 2398,Chi Orionis,32.212,52.51,41.21,0.63
+FL Virginis,Beta Hydri,32.257,52.58,41.26,0.63
+GL Virginis,55 Cancri A,32.291,52.63,41.31,0.63
+GL Virginis,Tau Ceti,32.49,52.95,41.55,0.63
+Procyon A,Zeta Tucanae,32.589,53.11,41.67,0.63
+Sol,Gliese 239,32.61,53.14,41.7,0.63
+Gliese 1154,UCAC4 608-044702,32.614,53.14,41.7,0.63
+Tau Ceti,Gliese 239,32.629,53.17,41.72,0.63
+Beta Virginis,Luyten's Star,32.632,53.17,41.73,0.63
+Beta Com,20 Leonis Minoris,32.658,53.22,41.76,0.63
+Wolf 359,Zeta Tucanae,32.706,53.29,41.82,0.63
+FL Virginis,Chi Orionis,32.794,53.43,41.93,0.63
+Beta Virginis,55 Cancri A,32.843,53.51,41.99,0.63
+Luyten's Star,Zeta Tucanae,32.887,53.58,42.04,0.63
+Beta Virginis,UCAC4 608-044702,32.899,53.6,42.06,0.63
+Sirius,UCAC4 608-044702,32.905,53.61,42.06,0.63
+Gliese 1154,Gliese 1093,32.935,53.66,42.1,0.63
+Beta Com,UCAC4 608-044702,33.034,53.81,42.22,0.63
+Beta Com,Sirius,33.051,53.84,42.24,0.63
+Gliese 486,UCAC4 608-044702,33.45,54.47,42.74,0.63
+Sigma Draconis,Chi Orionis,33.497,54.55,42.79,0.63
+Gliese 1154,Epsilon Indi,33.622,54.75,42.95,0.63
+Barnard's Star,Chi Orionis,33.756,54.96,43.11,0.63
+Sol,Pollux,33.78,55.0,43.14,0.63
+GL Virginis,Delta Pavonis,33.822,55.06,43.19,0.63
+Gliese 1154,Sigma Draconis,33.993,55.33,43.41,0.63
+Gliese 1154,55 Cancri A,33.998,55.34,43.41,0.63
+Gliese 1093,Epsilon Indi,34.063,55.45,43.49,0.63
+Gliese 1154,Epsilon Eridani,34.066,55.45,43.5,0.63
+Sirius,11 Leonis Minoris,34.093,55.49,43.53,0.63
+Ross 128,Zeta Tucanae,34.26,55.76,43.73,0.63
+Gliese 486,Epsilon Indi,34.295,55.81,43.78,0.63
+Beta Virginis,Alpha Centauri A,34.488,56.12,44.02,0.63
+Struve 2398,Beta Hydri,34.494,56.13,44.02,0.63
+Gliese 1093,20 Leonis Minoris,34.54,56.2,44.08,0.63
+Beta Virginis,Alpha Centauri C,34.553,56.22,44.1,0.63
+GL Virginis,20 Leonis Minoris,34.568,56.25,44.11,0.63
+Gliese 486,Gliese 1093,34.588,56.28,44.14,0.63
+Wolf 359,Gamma Pavonis,34.618,56.33,44.17,0.63
+FL Virginis,Gliese 239,34.664,56.4,44.23,0.63
+Alpha Centauri C,Gliese 239,34.826,56.66,44.43,0.63
+Beta Virginis,Sirius,34.864,56.72,44.48,0.63
+Beta Com,55 Cancri A,34.879,56.74,44.5,0.63
+Gliese 1154,Pollux,34.926,56.82,44.56,0.63
+Gliese 486,Epsilon Eridani,34.964,56.88,44.6,0.63
+Alpha Centauri A,Gliese 239,35.001,56.93,44.65,0.63
+FL Virginis,55 Cancri A,35.008,56.95,44.66,0.63
+Wolf 359,55 Cancri A,35.029,56.98,44.68,0.63
+Ross 128,55 Cancri A,35.029,56.98,44.68,0.63
+Gliese 1154,20 Leonis Minoris,35.057,57.02,44.72,0.63
+Beta CVn,Epsilon Eridani,35.084,57.07,44.75,0.63
+61 Virginis,Beta Hydri,35.088,57.07,44.76,0.63
+Gliese 486,20 Leonis Minoris,35.106,57.1,44.78,0.63
+Gliese 486,55 Cancri A,35.135,57.15,44.81,0.63
+Ross 128,Gamma Pavonis,35.467,57.67,45.22,0.63
+Sigma Draconis,11 Leonis Minoris,35.687,58.02,45.49,0.63
+Sol,Beta Virginis,35.7,58.04,45.51,0.63
+GL Virginis,Chi Orionis,35.807,58.21,45.64,0.63
+Beta Virginis,Gliese 251,35.834,58.26,45.67,0.63
+Sigma Draconis,Delta Pavonis,35.892,58.35,45.75,0.63
+Struve 2398,Pollux,35.945,58.43,45.81,0.63
+Chi Orionis,Epsilon Indi,35.95,58.44,45.82,0.63
+Struve 2398,11 Leonis Minoris,36.069,58.63,45.96,0.63
+Alpha Centauri C,Pollux,36.073,58.64,45.97,0.63
+Gliese 1154,Delta Pavonis,36.154,58.76,46.07,0.63
+Gliese 239,20 Leonis Minoris,36.17,58.79,46.09,0.63
+Gliese 486,Pollux,36.189,58.82,46.11,0.63
+Alpha Centauri A,Pollux,36.21,58.85,46.14,0.63
+61 Virginis,Epsilon Eridani,36.241,58.9,46.18,0.63
+Gliese 251,20 Leonis Minoris,36.356,59.09,46.32,0.63
+Beta Virginis,Barnard's Star,36.356,59.08,46.32,0.63
+Sigma Draconis,Pollux,36.387,59.13,46.36,0.63
+Gliese 251,Delta Pavonis,36.388,59.14,46.36,0.63
+GL Virginis,Gliese 239,36.424,59.19,46.4,0.63
+Sol,11 Leonis Minoris,36.64,59.54,46.67,0.63
+Procyon A,Gamma Pavonis,36.705,59.64,46.75,0.63
+Sirius,55 Cancri A,36.751,59.71,46.8,0.63
+Beta Com,Pollux,36.87,59.9,46.95,0.63
+Beta Virginis,Pollux,36.881,59.92,46.96,0.63
+Struve 2398,Gliese 239,36.897,59.94,46.99,0.63
+Beta Com,Gliese 1093,36.982,60.08,47.09,0.63
+61 Virginis,Gliese 251,36.987,60.09,47.1,0.63
+Sol,UCAC4 608-044702,37.0,60.11,47.11,0.63
+Beta CVn,Chi Orionis,37.228,60.47,47.39,0.63
+Luyten's Star,Gamma Pavonis,37.245,60.5,47.41,0.63
+Tau Ceti,Pollux,37.285,60.56,47.46,0.63
+Beta Virginis,Gliese 1093,37.31,60.6,47.49,0.63
+Epsilon Eridani,UCAC4 608-044702,37.37,60.7,47.57,0.63
+Gliese 486,Delta Pavonis,37.384,60.72,47.59,0.63
+Gliese 1154,Tau Ceti,37.401,60.74,47.61,0.63
+Struve 2398,Zeta Tucanae,37.513,60.92,47.74,0.63
+Gliese 251,Beta Hydri,37.661,61.16,47.93,0.63
+FL Virginis,Zeta Tucanae,37.705,61.23,47.98,0.63
+Sigma Draconis,UCAC4 608-044702,37.899,61.53,48.22,0.63
+Struve 2398,UCAC4 608-044702,37.918,61.56,48.24,0.63
+Gliese 486,Tau Ceti,37.969,61.65,48.31,0.63
+Beta CVn,Gliese 239,37.983,61.67,48.32,0.63
+Barnard's Star,Gliese 239,38.121,61.89,48.49,0.63
+GL Virginis,Beta Hydri,38.121,61.89,48.49,0.63
+FL Virginis,Gamma Pavonis,38.173,61.97,48.56,0.63
+61 Virginis,Sigma Draconis,38.236,62.07,48.63,0.63
+Sigma Draconis,Gliese 239,38.268,62.12,48.68,0.63
+61 Virginis,Tau Ceti,38.277,62.13,48.69,0.63
+Beta CVn,Tau Ceti,38.3,62.17,48.71,0.63
+Struve 2398,Gamma Pavonis,38.307,62.18,48.72,0.63
+Beta CVn,Epsilon Indi,38.313,62.19,48.73,0.63
+Barnard's Star,Pollux,38.431,62.38,48.88,0.63
+Beta Virginis,Struve 2398,38.445,62.4,48.89,0.63
+Alpha Centauri C,11 Leonis Minoris,38.593,62.64,49.08,0.63
+Alpha Centauri A,11 Leonis Minoris,38.659,62.74,49.16,0.63
+Beta Com,Epsilon Eridani,38.779,62.93,49.3,0.63
+Alpha Centauri C,UCAC4 608-044702,39.077,63.4,49.67,0.63
+Epsilon Eridani,11 Leonis Minoris,39.156,63.53,49.77,0.63
+Alpha Centauri A,UCAC4 608-044702,39.18,63.57,49.8,0.63
+Beta Com,Epsilon Indi,39.402,63.92,50.07,0.63
+FL Virginis,20 Leonis Minoris,39.411,63.93,50.08,0.63
+61 Virginis,Gamma Pavonis,39.43,63.97,50.11,0.63
+Barnard's Star,11 Leonis Minoris,39.523,64.11,50.22,0.63
+Gliese 1154,Beta Hydri,39.82,64.58,50.59,0.63
+Gliese 1154,Gliese 239,39.886,64.69,50.67,0.63
+61 Virginis,11 Leonis Minoris,40.118,65.06,50.96,0.63
+Gliese 1154,Chi Orionis,40.141,65.09,50.98,0.63
+Chi Orionis,20 Leonis Minoris,40.302,65.35,51.18,0.63
+Gliese 239,Epsilon Indi,40.604,65.83,51.55,0.63
+Luyten's Star,20 Leonis Minoris,40.818,66.17,51.82,0.63
+Gliese 1093,Beta Hydri,40.825,66.18,51.83,0.63
+61 Virginis,Gliese 1093,40.854,66.23,51.86,0.63
+Barnard's Star,UCAC4 608-044702,40.867,66.25,51.88,0.63
+Ross 128,20 Leonis Minoris,40.875,66.26,51.89,0.63
+Procyon A,20 Leonis Minoris,40.974,66.42,52.01,0.63
+Gliese 251,Zeta Tucanae,40.976,66.42,52.01,0.63
+Sol,55 Cancri A,41.06,66.55,52.12,0.63
+Gliese 1093,Delta Pavonis,41.322,66.97,52.44,0.63
+Gliese 486,Chi Orionis,41.521,67.28,52.68,0.63
+61 Virginis,Zeta Tucanae,41.585,67.39,52.76,0.63
+Epsilon Eridani,55 Cancri A,41.616,67.43,52.8,0.63
+Beta Com,Tau Ceti,41.639,67.47,52.83,0.63
+Gliese 486,Gliese 239,41.776,67.69,53.0,0.63
+Wolf 359,20 Leonis Minoris,41.909,67.9,53.16,0.63
+Sigma Draconis,Beta Hydri,41.975,68.0,53.24,0.63
+Gliese 486,Beta Hydri,42.138,68.26,53.44,0.63
+Struve 2398,55 Cancri A,42.26,68.46,53.6,0.63
+Beta Virginis,Sigma Draconis,42.3,68.52,53.65,0.63
+Sigma Draconis,55 Cancri A,42.38,68.65,53.74,0.63
+Beta Virginis,Epsilon Eridani,42.482,68.81,53.87,0.63
+Tau Ceti,UCAC4 608-044702,42.569,68.95,53.98,0.63
+Chi Orionis,Beta Hydri,42.621,69.03,54.04,0.63
+Alpha Centauri C,55 Cancri A,42.859,69.41,54.33,0.63
+Alpha Centauri A,55 Cancri A,42.954,69.56,54.45,0.63
+Beta Virginis,Epsilon Indi,42.999,69.63,54.51,0.63
+Beta Virginis,Gliese 239,43.235,70.0,54.8,0.63
+Beta Com,Chi Orionis,43.414,70.29,55.02,0.63
+61 Virginis,UCAC4 608-044702,43.604,70.59,55.25,0.63
+Chi Orionis,Delta Pavonis,43.668,70.69,55.33,0.63
+Pollux,Epsilon Indi,43.745,70.81,55.43,0.63
+Beta Com,Delta Pavonis,43.747,70.82,55.43,0.63
+Beta Com,Gliese 239,43.923,71.1,55.65,0.63
+GL Virginis,Zeta Tucanae,43.944,71.13,55.67,0.63
+Tau Ceti,11 Leonis Minoris,44.072,71.33,55.83,0.63
+Gliese 1093,Zeta Tucanae,44.133,71.43,55.9,0.63
+Beta CVn,Delta Pavonis,44.139,71.44,55.91,0.63
+GL Virginis,Gamma Pavonis,44.166,71.48,55.95,0.63
+Sigma Draconis,Zeta Tucanae,44.56,72.11,56.43,0.63
+Chi Orionis,Zeta Tucanae,44.842,72.55,56.78,0.63
+Barnard's Star,55 Cancri A,44.862,72.59,56.8,0.63
+61 Virginis,Pollux,44.864,72.59,56.81,0.63
+Beta Virginis,Chi Orionis,44.957,72.74,56.92,0.63
+Beta Virginis,Delta Pavonis,45.122,73.0,57.12,0.63
+61 Virginis,55 Cancri A,45.179,73.09,57.19,0.63
+Sigma Draconis,Gamma Pavonis,45.569,73.71,57.67,0.63
+Gliese 251,Gamma Pavonis,45.631,73.81,57.75,0.63
+Gliese 1154,Gamma Pavonis,45.915,74.26,58.1,0.63
+Sirius,20 Leonis Minoris,46.089,74.53,58.32,0.63
+Gliese 1154,Zeta Tucanae,46.102,74.55,58.33,0.63
+Gliese 239,Beta Hydri,46.25,74.79,58.51,0.63
+Beta Virginis,Tau Ceti,46.282,74.84,58.55,0.63
+61 Virginis,20 Leonis Minoris,46.622,75.38,58.97,0.63
+Tau Ceti,55 Cancri A,46.889,75.8,59.3,0.63
+Sigma Draconis,20 Leonis Minoris,47.392,76.6,59.92,0.63
+61 Virginis,Chi Orionis,47.457,76.71,60.0,0.63
+Gliese 486,Gamma Pavonis,47.508,76.79,60.06,0.63
+UCAC4 608-044702,Epsilon Indi,47.682,77.06,60.28,0.63
+Gliese 239,Delta Pavonis,47.738,77.15,60.35,0.63
+11 Leonis Minoris,Epsilon Indi,47.844,77.32,60.48,0.63
+Beta Virginis,Beta Hydri,47.929,77.46,60.58,0.63
+Struve 2398,20 Leonis Minoris,47.986,77.55,60.65,0.63
+61 Virginis,Gliese 239,48.053,77.65,60.74,0.63
+Gliese 486,Zeta Tucanae,48.168,77.83,60.88,0.63
+Sol,20 Leonis Minoris,48.68,78.65,61.51,0.63
+Gliese 239,Zeta Tucanae,49.028,79.2,61.94,0.63
+Beta CVn,Beta Hydri,49.316,79.66,62.29,0.63
+Beta Com,Beta Hydri,49.365,79.73,62.35,0.63
+Gliese 1093,Gamma Pavonis,49.802,80.43,62.89,0.63
+Alpha Centauri C,20 Leonis Minoris,50.195,81.05,63.38,0.63
+Alpha Centauri A,20 Leonis Minoris,50.24,81.12,63.43,0.63
+Pollux,Delta Pavonis,50.919,82.2,64.27,0.63
+Pollux,Beta Hydri,50.944,82.24,64.3,0.63
+Barnard's Star,20 Leonis Minoris,51.179,82.61,64.59,0.63
+Chi Orionis,Gamma Pavonis,51.352,82.89,64.8,0.63
+55 Cancri A,Epsilon Indi,51.554,83.21,65.05,0.63
+Epsilon Eridani,20 Leonis Minoris,51.694,83.43,65.22,0.63
+Beta Com,Gamma Pavonis,54.228,87.45,68.35,0.63
+Beta CVn,Zeta Tucanae,54.357,87.66,68.51,0.63
+Beta Virginis,Zeta Tucanae,54.391,87.71,68.55,0.63
+Beta Virginis,Gamma Pavonis,54.415,87.75,68.58,0.63
+11 Leonis Minoris,Delta Pavonis,54.44,87.79,68.61,0.63
+UCAC4 608-044702,Delta Pavonis,54.511,87.9,68.7,0.63
+Pollux,Zeta Tucanae,54.684,88.18,68.91,0.63
+Beta CVn,Gamma Pavonis,54.834,88.42,69.1,0.63
+Beta Com,Zeta Tucanae,54.895,88.51,69.17,0.63
+UCAC4 608-044702,Beta Hydri,55.361,89.25,69.75,0.63
+Gliese 239,Gamma Pavonis,55.506,89.48,69.92,0.63
+11 Leonis Minoris,Beta Hydri,56.454,90.99,71.09,0.63
+Tau Ceti,20 Leonis Minoris,56.671,91.33,71.36,0.63
+55 Cancri A,Delta Pavonis,57.989,93.42,72.98,0.63
+55 Cancri A,Beta Hydri,58.606,94.4,73.74,0.63
+20 Leonis Minoris,Epsilon Indi,59.621,96.01,75.0,0.63
+UCAC4 608-044702,Zeta Tucanae,59.716,96.16,75.11,0.63
+Pollux,Gamma Pavonis,59.898,96.45,75.34,0.63
+11 Leonis Minoris,Zeta Tucanae,61.231,98.57,76.98,0.63
+55 Cancri A,Zeta Tucanae,63.181,101.66,79.38,0.63
+UCAC4 608-044702,Gamma Pavonis,64.052,103.05,80.46,0.63
+11 Leonis Minoris,Gamma Pavonis,64.511,103.78,81.02,0.63
+20 Leonis Minoris,Delta Pavonis,65.499,105.34,82.24,0.63
+20 Leonis Minoris,Beta Hydri,67.39,108.35,84.57,0.63
+55 Cancri A,Gamma Pavonis,67.455,108.45,84.65,0.63
+20 Leonis Minoris,Zeta Tucanae,72.594,116.61,90.99,0.63
+20 Leonis Minoris,Gamma Pavonis,75.523,121.25,94.6,0.63

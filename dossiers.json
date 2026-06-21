@@ -1,0 +1,104 @@
+{
+  "Sol": {
+    "eyebrow": "Origin",
+    "type": "G2V — home system",
+    "stats": [["dist", "0 ly"], ["role", "root of all trees"], ["blocs", "all five launch here"], ["first launch", "~2117"]],
+    "role": "Where every chain starts. The capitalist trunks head into Leo–Virgo; France and China run their own trees in other directions. First gate-layer departs ~2117, the year the wormhole breakthrough is cracked."
+  },
+  "Wolf 359": {
+    "eyebrow": "Shared corridor · relay 1",
+    "type": "M6V red dwarf",
+    "stats": [["dist", "7.86 ly"], ["gate open", "2132 (anchor)"], ["hop→Ross 128", "3.9 ly"], ["used by", "US + Commonwealth"]],
+    "role": "The first waystation and the timeline's anchor (gate operational 2132). A dim flare star — a shared stepping-stone the US trunk and British spur both ride toward the Virgo cluster."
+  },
+  "Ross 128": {
+    "eyebrow": "Shared corridor · relay 2",
+    "type": "M4V red dwarf",
+    "stats": [["dist", "11.0 ly"], ["gate open", "~2145"], ["hop→FL Vir", "4.3 ly"], ["used by", "US + Commonwealth"]],
+    "role": "A quiet M-dwarf relay. Short, comfortable hops in and out — the easy middle of the shared corridor."
+  },
+  "FL Virginis": {
+    "eyebrow": "Shared corridor · relay 3",
+    "type": "M5.5V binary (Wolf 424)",
+    "stats": [["dist", "14.0 ly"], ["gate open", "~2159"], ["hop→GL Vir", "7.2 ly"], ["used by", "US + Commonwealth"]],
+    "role": "A red-dwarf binary. Before GL Virginis was inserted, the next jump was a brutal ~12.5 ly; splitting it tamed the corridor's worst stretch."
+  },
+  "GL Virginis": {
+    "eyebrow": "Shared corridor · BRANCH POINT",
+    "type": "M4.5V flare star (Gliese 1156)",
+    "stats": [["dist", "21.1 ly"], ["gate open", "~2178"], ["US →", "Gliese 1154"], ["UK →", "Gliese 486"]],
+    "role": "Where the corridor forks. The US trunk continues to Gliese 1154; the Commonwealth spur peels off here via Gliese 486. This node stays lit as long as either bloc is active — Britain's road home runs through it."
+  },
+  "Gliese 1154": {
+    "eyebrow": "US trunk · BRANCH POINT",
+    "type": "M4.5V red dwarf (~0.25 M☉)",
+    "stats": [["dist", "26.4 ly"], ["gate open", "~2196"], ["hop→Beta Vir", "9.9 ly (0.8c)"], ["branch→61 Vir", "11.1 ly"]],
+    "role": "The last relay before Sonora, and a second branch point (→ 61 Virginis). The Magellan fleet breeds its embryos here and sprints the final 9.9 ly to Beta Virginis at 0.8c so the seeds survive."
+  },
+  "Beta Virginis": {
+    "eyebrow": "TERMINUS — Sonora (US)",
+    "type": "F9V (Zavijava) · 3.51 L☉",
+    "stats": [["dist", "35.7 ly"], ["gate open", "~2215"], ["order", "6th — deepest"], ["the colony", "Sonora"]],
+    "role": "The prize and the setting. Six gates deep from Sol — the end of a long, cuttable supply line. Gate anchors at the gas giant Jefferson; Sonora the living world lies sunward. The whole SIGINT game plays out here."
+  },
+  "61 Virginis": {
+    "eyebrow": "US branch · candidate",
+    "type": "G7V Sun-like",
+    "stats": [["dist", "27.9 ly"], ["branch from", "Gliese 1154"], ["hop", "11.1 ly"], ["status", "candidate colony"]],
+    "role": "A Sun-like branch target hanging off Gliese 1154 — part of why the corridor was worth building. A near-future or parallel American colony."
+  },
+  "Gliese 486": {
+    "eyebrow": "British spur · relay",
+    "type": "M3.5V red dwarf",
+    "stats": [["dist", "26.35 ly"], ["branch from", "GL Virginis"], ["hop in", "~6.0 ly"], ["hop→Beta Com", "~10 ly (0.8c)"]],
+    "role": "A Virgo red dwarf that lets the Commonwealth step off the shared corridor at GL Vir without an over-long jump, then sprint up to Beta Comae Berenices."
+  },
+  "Beta Com": {
+    "eyebrow": "British spur · hub",
+    "type": "G0V Sun-like",
+    "stats": [["dist", "30.0 ly"], ["branch from", "Gliese 486"], ["onward", "→ Beta CVn 8.2 ly"], ["role", "Commonwealth hub"]],
+    "role": "Beta Comae Berenices — the Commonwealth's stepping-stone, high in declination off the corridor. From here it's a short 8.2 ly climb to Chara and New Rhodesia."
+  },
+  "Beta CVn": {
+    "eyebrow": "TERMINUS — New Rhodesia (UK)",
+    "type": "G0V (Chara) — near Sun-twin",
+    "stats": [["dist", "27.5 ly"], ["via", "Beta Com"], ["founded", "~mid-2220s–2230s"], ["colony", "New Rhodesia"]],
+    "role": "Chara, the most Sun-like of the colonized stars — the Commonwealth's African-preserve world. Reached only through the shared corridor, so it depends on those gates staying open."
+  },
+  "Barnard's Star": {
+    "eyebrow": "French chain · relay 1",
+    "type": "M4V red dwarf",
+    "stats": [["dist", "5.96 ly"], ["branch from", "Sol"], ["hop→Struve 2398", "9.5 ly (0.8c)"], ["note", "2nd-closest system"]],
+    "role": "The French tree's first stepping-stone — the second-closest star to Sol. France launches its own relay from here toward Draco, independent of the capitalist corridor."
+  },
+  "Struve 2398": {
+    "eyebrow": "French chain · relay 2",
+    "type": "M3V binary (Gliese 725)",
+    "stats": [["dist", "11.49 ly"], ["branch from", "Barnard's"], ["hop→Sigma Dra", "7.9 ly"], ["constellation", "Draco"]],
+    "role": "A red-dwarf binary high in Draco — the French waypoint that bends the chain north toward their prize at Sigma Draconis."
+  },
+  "Sigma Draconis": {
+    "eyebrow": "TERMINUS — Vespera (France)",
+    "type": "K0V (Alsafi) · 0.42 L☉",
+    "stats": [["dist", "18.8 ly"], ["via", "Struve 2398"], ["colony", "Vespera"], ["role", "premier R&D"]],
+    "role": "Alsafi — the French colony Vespera: a hot, dark-jungle hothouse world (0.8 g, 30-hour day) where colonists live indoors and France runs its premier bioengineering and physics research."
+  },
+  "Epsilon Eridani": {
+    "eyebrow": "Japanese chain · relay",
+    "type": "K2V orange dwarf",
+    "stats": [["dist", "10.47 ly"], ["branch from", "Sol"], ["hop→Tau Ceti", "~5 ly"], ["note", "young, dusty disk"]],
+    "role": "Japan's forward waystation — a nearby orange dwarf with a famous debris disk. The industrial #2 power runs its own short tree from Sol out toward Cetus."
+  },
+  "Tau Ceti": {
+    "eyebrow": "TERMINUS — Japanese colony",
+    "type": "G8V Sun-like",
+    "stats": [["dist", "11.9 ly"], ["via", "Epsilon Eridani"], ["bloc", "Japan"], ["status", "established colony"]],
+    "role": "The classic Sun-like target — Japan's flagship colony, a clean G8 dwarf reached via Epsilon Eridani. The capitalist coalition's second great holding after Sonora."
+  },
+  "Sirius": {
+    "eyebrow": "TERMINUS — Chinese colony",
+    "type": "A1V — brilliant blue-white",
+    "stats": [["dist", "8.6 ly"], ["branch from", "Sol (0.8c)"], ["bloc", "China"], ["note", "hot primary + white dwarf"]],
+    "role": "China's target since the start of the race. A blazing A-type primary with a white-dwarf companion — no habitable world of its own, but a prestige anchor and a forward base aimed squarely at the capitalist sphere."
+  }
+}
